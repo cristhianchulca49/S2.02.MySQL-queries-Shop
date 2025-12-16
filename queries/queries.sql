@@ -1,4 +1,3 @@
-USE tienda;
 -- 1. Llista el nom de tots els productes que hi ha en la taula producto.
 SELECT nombre
 FROM producto;
